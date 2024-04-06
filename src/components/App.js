@@ -67,5 +67,4 @@ const App=()=>{
            <p>{login ? "Login Successfull" :""}</p>
     </div>)
 }
-
 export default App;
